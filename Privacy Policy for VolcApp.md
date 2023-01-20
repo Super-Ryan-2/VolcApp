@@ -7,6 +7,7 @@ VolcApp is an augmented reality (AR) application that allows users to view and i
 We collect the following information when you use VolcApp :
 
 -Camera data : We use your device's camera to display the AR volcanoes in your environment. We do not collect or store any images or videos taken with your camera.
+
 -Device information : We collect information about your device, such as the type of device, operating system, and version, to ensure that VolcApp works properly on your device.
 
 We may use the information collected to improve VolcApp and provide you with a better user experience. We will not share your information with any third parties for marketing purposes or for any other reason.
