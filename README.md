@@ -21,6 +21,9 @@ Nécessite Android
 Classification du contenu
 PEGI 3 En savoir plus
 
+Taille du téléchargement
+Environs 52 Mo
+
 Date de sortie
 28 janv. 2023
 
